@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-weather/static/css/main.ab28f1c4.chunk.css",
+    "main.js": "/react-weather/static/js/main.81aa690c.chunk.js",
+    "main.js.map": "/react-weather/static/js/main.81aa690c.chunk.js.map",
+    "runtime-main.js": "/react-weather/static/js/runtime-main.5edeccaa.js",
+    "runtime-main.js.map": "/react-weather/static/js/runtime-main.5edeccaa.js.map",
+    "static/js/2.a588ecb1.chunk.js": "/react-weather/static/js/2.a588ecb1.chunk.js",
+    "static/js/2.a588ecb1.chunk.js.map": "/react-weather/static/js/2.a588ecb1.chunk.js.map",
+    "static/js/3.a1d2b27e.chunk.js": "/react-weather/static/js/3.a1d2b27e.chunk.js",
+    "static/js/3.a1d2b27e.chunk.js.map": "/react-weather/static/js/3.a1d2b27e.chunk.js.map",
+    "index.html": "/react-weather/index.html",
+    "static/css/main.ab28f1c4.chunk.css.map": "/react-weather/static/css/main.ab28f1c4.chunk.css.map",
+    "static/js/2.a588ecb1.chunk.js.LICENSE.txt": "/react-weather/static/js/2.a588ecb1.chunk.js.LICENSE.txt",
+    "static/media/1.e32f1296.jpg": "/react-weather/static/media/1.e32f1296.jpg",
+    "static/media/cloud.15eb556c.png": "/react-weather/static/media/cloud.15eb556c.png",
+    "static/media/cloudy_black.66a56ce5.mp4": "/react-weather/static/media/cloudy_black.66a56ce5.mp4",
+    "static/media/dull.6864fed2.png": "/react-weather/static/media/dull.6864fed2.png",
+    "static/media/rain.5380eba1.png": "/react-weather/static/media/rain.5380eba1.png",
+    "static/media/rain.d760c2fe.mp4": "/react-weather/static/media/rain.d760c2fe.mp4",
+    "static/media/sun.6d48da50.png": "/react-weather/static/media/sun.6d48da50.png",
+    "static/media/sunny.1a406ada.mp4": "/react-weather/static/media/sunny.1a406ada.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5edeccaa.js",
+    "static/js/2.a588ecb1.chunk.js",
+    "static/css/main.ab28f1c4.chunk.css",
+    "static/js/main.81aa690c.chunk.js"
+  ]
+}
