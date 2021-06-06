@@ -1,4 +1,7 @@
+Приложение является полностью оригинальным
+
 https://danil51608.github.io/react-weather/  - запустить приложение
+
 
 
 # Getting Started with Create React App
